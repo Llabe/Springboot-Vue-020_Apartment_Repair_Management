@@ -51,7 +51,7 @@ src/
 2. 修改application.yml中数据库连接配置
 3. 访问后台：http://localhost:8080/springboot3lx4p/admin/dist/index.html
 4. 使用管理员账号：abo/abo
-```
+
 
 # 项目实际截图：
 ## 登录：
